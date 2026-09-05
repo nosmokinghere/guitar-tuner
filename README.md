@@ -4,6 +4,13 @@ Reference-pitch guitar tuner. Open **Tuner**, then tap a string. Each button pla
 
 A4 = 440 Hz.
 
+## Install
+
+```sh
+omarchy plugin add https://github.com/nosmokinghere/guitar-tuner.git --enable
+omarchy bar put solfredag.guitar-tuner '{"section":"right"}'
+```
+
 ## Use
 
 - Open the Tuner drop-down
@@ -31,6 +38,6 @@ MIT
 ## Remove
 
 ```sh
-omarchy bar remove solfredag.changing-lines
-omarchy plugin remove solfredag.changing-lines
+omarchy bar remove solfredag.guitar-tuner
+omarchy plugin remove solfredag.guitar-tuner
 ```
