@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "solfredag.guitar-tuner",
+  "name": "Pegbox",
+  "version": "1.0.0",
+  "author": "solfredag",
+  "license": "MIT",
+  "description": "Bar widget that plays concert pitch for the six strings of a guitar in standard tuning.",
+  "kinds": ["bar-widget"],
+  "entryPoints": { "barWidget": "BarWidget.qml" },
+  "barWidget": {
+    "displayName": "Tuner",
+    "category": "Utility",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
