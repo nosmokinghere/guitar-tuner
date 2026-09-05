@@ -27,3 +27,10 @@ Match each open string to the tone, then move on.
 ## License
 
 MIT
+
+## Remove
+
+```sh
+omarchy bar remove solfredag.changing-lines
+omarchy plugin remove solfredag.changing-lines
+```
