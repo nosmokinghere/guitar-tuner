@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pegbox",
+      "hasCanvas": false,
+      "bodyTextLen": 293,
+      "bodyTextHash": "c3c9f0a2c625c94b647d54e24a3ba1b4bfd0cd9d2485e3715a693a6538483d20",
+      "bodyTextPrefix": "REFERENCE PITCH Pegbox Volume Tuner six strings STANDARD TUNING ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pegbox",
+      "hasCanvas": false,
+      "bodyTextLen": 281,
+      "bodyTextHash": "0a6f7f9bb225b6e143e51384306d0b47395dd2311d134483593994a3f3dbedd1",
+      "bodyTextPrefix": "REFERENCE PITCH Pegbox Volume Tuner six strings STANDARD TUNING ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
